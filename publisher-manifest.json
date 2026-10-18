@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "d2dde88b05c3756e0a676468",
+  "owner": "jyxwre",
+  "repo": "page-b7ba6639ba7f18fecd21dab8",
+  "title": "糖果云(Candytally)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b7ba6639ba7f18fecd21dab8",
+      "a": "糖果云(Candytally)",
+      "b": "",
+      "entity": "糖果云(Candytally)",
+      "brand": "糖果云(Candytally)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "116fc39b1bcc9c089a7088dbcd08fd90cb17167671bec4c747c4d6686cde9c8c",
+      "content": {
+        "keyword1": "糖果云(Candytally)",
+        "keyword2": "",
+        "primary_entity": "糖果云(Candytally)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "糖果云(Candytally)像一本摊开的专栏：用酒红与象牙色记下额度、设备与阅读节奏，不急着下结论，只把能核对的事项写清楚。",
+          "AI_DESCRIPTION": "糖果云(Candytally)像一本摊开的专栏：用酒红与象牙色记下额度、设备与阅读节奏，不急着下结论，只把能核对的事项写清楚。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#f6efe6;color:#3a1f24;font-family:\"Songti SC\",\"Noto Serif SC\",\"Georgia\",serif;line-height:1.7}\nbody{padding-bottom:4.5rem}\na{color:#7a1d32;text-decoration:none}\na:hover{text-decoration:underline}\nmain{max-width:1120px;margin:0 auto;padding:1.2rem 1rem 2rem}\n.dash{display:grid;grid-template-columns:repeat(6,1fr);gap:.7rem;margin-bottom:1.6rem}\n.tile{background:#fffaf3;border:1px solid #e4d4c8;padding:.9rem .85rem;min-height:7.2rem}\n.tile.wide{grid-column:span 3}\n.tile.tall{grid-column:span 2;min-height:10rem}\n.k{font-size:.72rem;letter-spacing:.12em;color:#7a1d32;text-transform:uppercase}\n.n{font-size:2.1rem;line-height:1.1;font-weight:700;color:#6b1528}\nh1{font-size:clamp(1.8rem,4vw,2.6rem);line-height:1.2;margin:.4rem 0 .6rem;color:#5c1224}\nh2{font-size:1.35rem;margin:1.8rem 0 .7rem;color:#5c1224;border-bottom:2px solid #6b1528;display:inline-block;padding-bottom:.15rem}\nh3{font-size:1.05rem;margin:.8rem 0 .35rem;color:#6b1528}\np{margin:.45rem 0}\n.lead{font-size:1.05rem}\n.bar{border-left:6px solid #6b1528;padding:.75rem 1rem;background:#fffaf3;margin:.7rem 0}\n.step{display:flex;flex-direction:column;gap:.8rem;margin-top:.6rem}\n.plan{border-left:6px solid #6b1528;background:#fffaf3;padding:1rem 1.1rem;margin:.55rem 0}\n.plan.mid{margin-left:6%}\n.plan.hi{margin-left:12%;border-left-width:10px}\n.price{font-size:1.25rem;font-weight:700;color:#6b1528}\n.muted{color:#6a4a50;font-size:.92rem}\nul{margin:.3rem 0 .3rem 1.2rem}\n.faq-group{margin:1rem 0}\n.faq-item{border-left:6px solid #8a2a3c;padding:.55rem .9rem;background:#fffaf3;margin:.45rem 0}\n.bottomnav{position:fixed;left:0;right:0;bottom:0;background:#5c1224;color:#f6efe6;display:flex;justify-content:space-around;flex-wrap:wrap;padding:.55rem .4rem;font-size:.85rem;z-index:10}\n.bottomnav a{color:#f6efe6;padding:.2rem .4rem}\n@media(max-width:720px){\n.dash{grid-template-columns:repeat(2,1fr)}\n.tile.wide,.tile.tall{grid-column:span 2}\n.plan.mid,.plan.hi{margin-left:0}\n}\n</style><main>\n<section id=\"top\" class=\"dash\" aria-label=\"首屏仪表盘\">\n<article class=\"tile wide\">\n<p class=\"k\">Candytally ledger</p>\n<h1>糖果云(Candytally)</h1>\n<p class=\"lead\">我更愿意把它写成一份摊在桌上的账本：酒红边线压住象牙纸面，数字并排，句子慢慢走。没有人需要被催促，只要把额度、设备和阅读顺序看清楚。</p>\n</article>\n<article class=\"tile\"><p class=\"k\">纸面色</p><p class=\"n\">酒红</p><p>压住象牙底</p></article>\n<article class=\"tile\"><p class=\"k\">记录法</p><p class=\"n\">分块</p><p>像仪表盘拼贴</p></article>\n<article class=\"tile tall\"><p class=\"k\">专栏入口</p><p>下面几栏不是口号墙，而是把「怎么读这份站点」拆成可核对的格子。你可以从额度开始，也可以从使用顺序开始。</p></article>\n<article class=\"tile\"><p class=\"k\">导航</p><p>落在脚边</p></article>\n<article class=\"tile\"><p class=\"k\">语气</p><p>叙述，不喊话</p></article>\n</section>\n\n<section id=\"read\">\n<h2>如何把这份页面当专栏来读</h2>\n<p>先看格子里的数字感，再看左侧色条标出的段落。色条不是装饰，它告诉你：这一段是条目，不是气氛。若某项没有出现在可核对的清单里，我就把它留白——空白本身也是一种诚实。</p>\n<div class=\"bar\">\n<h3>一、先核对名称</h3>\n<p>品牌写作「糖果云(Candytally)」。其余身份、评测、兼容名单，本页不补充。</p>\n</div>\n<div class=\"bar\">\n<h3>二、再看阶梯</h3>\n<p>套餐按台阶往右错开：基础在下沿，旗舰略抬，团队再抬一阶。错开是为了让眼睛走楼梯，而不是并排比较海报。</p>\n</div>\n<div class=\"bar\">\n<h3>三、最后问问题</h3>\n<p>常见问题按主题分组，像附录里的小标题，而不是一次性倒出的清单。</p>\n</div>\n</section>\n\n<section id=\"use\">\n<h2>使用说明：一条可以放慢的路径</h2>\n<p>我把步骤写成叙事，因为真正动手时，人往往不是按按钮顺序生活，而是按「今天要核对什么」生活。</p>\n<div class=\"step\">\n<div class=\"bar\">\n<h3>早晨：打开账本而不是打开战场</h3>\n<p>先确认你要处理的是阅读、备份，还是多人共用同一份额度。名称对上了，再谈后面的栏。</p>\n</div>\n<div class=\"bar\">\n<h3>午后：把设备数写成家庭人口</h3>\n<p>同时在线的台数，更像家里几个人要共用书桌。写进格子里，比记在聊天记录里不容易走丢。</p>\n</div>\n<div class=\"bar\">\n<h3>夜里：只留下能复述的句子</h3>\n<p>如果你无法用自己的话复述某一项权益，就先不要把它当成已发生的事实。本页亦如此自律。</p>\n</div>\n</div>\n</section>\n\n<section id=\"plans\">\n<h2>套餐台阶：从窄到宽的三层</h2>\n<p>下列名称与价位来自编辑对照清单，用作版式上的阶梯，而非额外承诺。权益改写成可阅读的条目，去掉无法核对的形容词。</p>\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"muted\">按年付对照价：¥150/年</p>\n<ul>\n<li>流量额度按月记为 100GB</li>\n<li>同时在线设备按 3 台计</li>\n<li>媒体访问范围记为基础档</li>\n<li>线路集合记为普通池，细节以实际开通说明为准</li>\n</ul>\n</article>\n<article class=\"plan mid\">\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"muted\">按年付对照价：¥350/年 · 本页台阶中的中间层</p>\n<ul>\n<li>流量额度按月记为 300GB</li>\n<li>同时在线设备按 5 台计</li>\n<li>媒体相关条目记为更完整的解锁说明（以开通文本为准）</li>\n<li>游戏相关优化、工单时段等，本页不作额外保证，仅保留名称对照</li>\n</ul>\n</article>\n<article class=\"plan hi\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"muted\">按年付对照价：¥850/年</p>\n<ul>\n<li>流量额度按月记为 1000GB</li>\n<li>同时在线设备按 20 台计</li>\n<li>高带宽、定制路由、客户经理等条目属对照清单用语，未在事实栏核验前不当作已证实服务</li>\n</ul>\n</article>\n</section>\n\n<section id=\"clients\">\n<h2>客户端：尚无可靠下载栏</h2>\n<p>对照清单里没有可核验的客户端名称与地址。因此这里不编造商店链接，也不假装有安装包。你若已从其他渠道获得软件，请自行核对其来源；本页链接留空，仅提供站内锚点作为阅读回跳。</p>\n<div class=\"bar\">\n<h3>桌面与移动</h3>\n<p>未提供系统名单。建议在你常用的设备上，以「能否登录你已开通的账户」作为唯一自检，而不是追求版本口号。</p>\n</div>\n<div class=\"bar\">\n<h3>地址策略</h3>\n<p>无可靠来源时，下载地址为空白。需要跳转时使用页内目录：<a href=\"#top\">回首屏</a>。</p>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题，按主题归档</h2>\n<div class=\"faq-group\">\n<h3>关于阅读方式</h3>\n<div class=\"faq-item\">\n<p><strong>问：为什么首屏像仪表而不是海报？</strong></p>\n<p>答：因为糖果云(Candytally)在这篇里被当成账本。格子让数字先说话，句子随后跟上，避免一张大标题吞掉所有细节。</p>\n</div>\n<div class=\"faq-item\">\n<p><strong>问：底部那一行字是菜单吗？</strong></p>\n<p>答：是固定在脚边的文字导航，随你滚动仍在，像专栏页脚的目录，而不是悬挂的巨幅栏。</p>\n</div>\n</div>\n<div class=\"faq-group\">\n<h3>关于套餐台阶</h3>\n<div class=\"faq-item\">\n<p><strong>问：中间那一层为什么往右挪？</strong></p>\n<p>答：阶梯式排列让层级用位置表达。挪动不是推荐章，只是让眼睛走三级台阶。</p>\n</div>\n<div class=\"faq-item\">\n<p><strong>问：价格能否当作下单凭证？</strong></p>\n<p>答：不能。它们来自对照清单，事实栏为空。下单前请以你实际看到的开通文本为准。</p>\n</div>\n</div>\n<div class=\"faq-group\">\n<h3>关于空白与限制</h3>\n<div class=\"faq-item\">\n<p><strong>问：为什么不写节点、日志、退款？</strong></p>\n<p>答：那些信息不在可引用的事实里。编造比留白更不负责，所以 FAQ 也只回答页面自己提出的读法。</p>\n</div>\n<div class=\"faq-item\">\n<p><strong>问：客户端何时会出现链接？</strong></p>\n<p>答：有可核验地址再写。现在用 <a href=\"#\">#</a> 表示未确认，避免伪造下载。</p>\n</div>\n</div>\n</section>\n</main>\n<nav class=\"bottomnav\" aria-label=\"底部文字导航\">\n<a href=\"#top\">首屏格子</a>\n<a href=\"#read\">阅读法</a>\n<a href=\"#use\">使用说明</a>\n<a href=\"#plans\">套餐台阶</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">分组问答</a>\n</nav>",
+          "hash": "b5ad791e7c536198521b3393181c045bb8a93efdf0db92957fbb3d170323c4dc",
+          "seo": {
+            "title": "糖果云(Candytally)｜把云端日常写成可读的账本",
+            "keywords": "糖果云,Candytally,云端工作台,套餐说明,使用笔记",
+            "description": "糖果云(Candytally)像一本摊开的专栏：用酒红与象牙色记下额度、设备与阅读节奏，不急着下结论，只把能核对的事项写清楚。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "7227",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sp25tg.cn",
+    "host": "p-bd9b5469d6.sp25tg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f876e6ec42e3f8746f7b2b73c2ef4c7cde3479ea87e194a62150e79a095f151f",
+    "sitemap.xml": "0332fe0015082cd33a9abd1cbaaa5afcae0fdbcde9e31e4df8980debb747b2b1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "00bea78451d276219711551ec1a2f897a9daa47564a2acb143bb90eb8d7e75ae",
+    "robots.txt": "72f532146b54a7121e7667aea4920a2115816d7bf46a960d30269641042306f5",
+    "ed6b21f05a1d5605183399137bcedd1a.txt": "a26ed522450ef9cc6d61636dbff89293421b78b55c72c9b9152da7981ae56557"
+  },
+  "revision": "a8f4a5e70daaedc11daa91c7ed3abc9150946311d16a8d55612fcf369218c41d"
+}
